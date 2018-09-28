@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Mon Application</string>
+    <string name="hello_world">Bonjour le monde !</string>
+    <string name="paragraph">Il a été popularisé dans les années 1960 avec la publication de feuilles Letraset contenant des passages de Lorem Ipsum, et plus récemment avec un logiciel de publication assistée par ordinateur comme Aldus PageMaker, comprenant des versions de Lorem Ipsum.</string>
+
+</resources>
